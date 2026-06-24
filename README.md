@@ -1,16 +1,39 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Harman Arora</h1>
+<h3 align="center">Tech Nerdy Student | BCA @ IGNOU | Full Stack Learner</h3>
 
-<!--
-**Dev-HarmanArora/Dev-HarmanArora** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 I'm a Tech Nerdy Student and I Love Learning New Skills
 
-Here are some ideas to get you started:
+🎓 Currently pursuing BCA at IGNOU
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Learning Full Stack Development
+
+🚀 Exploring Web Development, Open Source, and Modern Technologies
+
+📍 New Delhi, India
+
+📫 Reach me: **[devbyharman@gmail.com](mailto:devbyharman@gmail.com)**
+
+---
+
+### About Me
+
+* 🔭 Currently working on improving my development skills
+* 🌱 Learning Full Stack Development
+* 💡 Passionate about technology and innovation
+* 📚 Always curious to learn something new
+
+---
+
+### Tech Stack
+
+```txt
+HTML • CSS • JavaScript
+React • Git • GitHub
+```
+
+---
+
+> ⚡ Hard Work Beats Talent
+
+
+<!
